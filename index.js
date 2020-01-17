@@ -13,5 +13,3 @@ function deleteFromObjectByKey(object,key){
   delete clone[key];
   return clone;
 }
-
-function 
